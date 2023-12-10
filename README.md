@@ -30,7 +30,8 @@ Teller (or TellerAI) is an AI tool which provides you a unique, family-friendly,
 - Share your favourite stories
 ## Demo video
 
-![App Demo Video](https://youtu.be/aMFEpCQLuOA) 
+[![Application Demo Video](https://github.com/kaizerpwn/teller-ai/assets/70588174/549007cd-1dfe-48ab-a264-4af239de09d7)](https://youtu.be/aMFEpCQLuOA)
+
 
 
 ## Authors
