@@ -29,9 +29,8 @@ const Header = ({ stories }: HeaderProps) => {
     <section
       className="relative"
       style={{
-        backgroundImage: `url(${
-          shuffledStories && shuffledStories[0]?.scenarios[0]?.image
-        })`,
+        backgroundImage: `url(${shuffledStories && shuffledStories[0]?.scenarios[0]?.image
+          })`,
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
         backgroundPosition: "center",
@@ -141,7 +140,7 @@ const Header = ({ stories }: HeaderProps) => {
                                     alt="story"
                                     width={1000}
                                     height={1000}
-                                    className="cursor-pointer"
+                                    className="cursor-pointer object-cover"
                                     style={{
                                       width: "160px",
                                       height: "130px",

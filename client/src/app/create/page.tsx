@@ -66,7 +66,7 @@ const CreateStoryPage = () => {
   return (
     <div>
       <section
-        className={`relative h-screen overflow-hidden ${loadingState ? "hidden" : ""}`}
+        className={`relative h-screen  bg-[#001e2b] ${loadingState ? "hidden" : ""}`}
       >
         <div className="mt-2 md:mt-0 py-12 pb-6 sm:py-16 lg:pb-24 overflow-hidden">
           <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8 relative">

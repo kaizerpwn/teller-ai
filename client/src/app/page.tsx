@@ -6,7 +6,7 @@ import Genres from "@/components/Genres";
 import Step from "@/components/Step";
 import { Footer } from "@/components/Footer";
 import Popular from "@/components/Popular";
-import useStories from "./hooks/useStory";
+import useStories from "../hooks/useStory";
 import { useEffect, useMemo, useState } from "react";
 import Spinner from "@/utils/Spinner";
 

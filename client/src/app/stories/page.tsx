@@ -4,7 +4,7 @@ import Navbar from "@/components/Navbar";
 import Image from "next/image";
 import { Pagination } from "@nextui-org/react";
 import { IStory } from "@/interfaces/IStory";
-import useStories from "../hooks/useStory";
+import useStories from "../../hooks/useStory";
 import Link from "next/link";
 import Spinner from "@/utils/Spinner";
 import { useEffect, useState } from "react";
