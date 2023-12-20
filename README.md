@@ -12,7 +12,7 @@ Teller (or TellerAI) is an AI tool which provides you a unique, family-friendly,
 |---|---|---|
 | GPT-4  | Used to generate a story based on user's prompt | [OpenAI](https://openai.com/) |  
 | DALL-E  |  Generates images for every part of the story | [OpenAI](https://openai.com/) |
-| Whisper  |  Produces audio recitation of your story  | [OpenAI](https://openai.com/)  |
+| TTS  |  Produces audio recitation of your story  | [OpenAI](https://openai.com/)  |
 | Next UI  |  Used to style a big part of the application  | [NextUI](https://nextui.org/)  |
 | Tailwind CSS |  Used as a CSS framework  | [Tailwind CSS](https://tailwindcss.com/)  |
 
